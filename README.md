@@ -9,7 +9,7 @@ Projeto para iniciar uma aplicação ruby on rails mvc com postgresql
 3. Rode os comando abaixo:
 
 - make create (Vai ser criado o projeto rails no diretorio rails-app)
-- `sudo chown -R $USER:$USER rails-api` (Se tiver no linux terá que dá permissao no diretorio)
+- `sudo chown -R $USER:$USER rails-app` (Se tiver no linux terá que dá permissao no diretorio)
 - make build (Baixar as dependencias do Gemfile)
 
 configurar a conexao com o postgres
